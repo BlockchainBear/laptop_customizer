@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
 import Cart from './Cart'
-import CustomForm from './CustomForm'
+//import CustomForm from './CustomForm'
+//import Features from './Features'
+//import FeaturesObject from './FeaturesObject'
+//import FeaturesOption from './FeaturesOption'
+//import Header from './Header'
+//import Summary from '/Summary'
+//import Total from './Total'
+
 // Normalizes string as a slug - a string that is safe to use
 // in both URLs and html attributes
 import slugify from 'slugify';
