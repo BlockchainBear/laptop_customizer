@@ -1,5 +1,5 @@
-import React from "react";
-import slugify from 'slugify';
+import React from 'react'
+import slugify from 'slugify'
 
 const Features = {
     Processor: [
