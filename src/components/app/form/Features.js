@@ -1,5 +1,8 @@
 import React from 'react'
 import slugify from 'slugify'
+import Features from './FeatureOptions'
+
+
 
 const Features = {
     Processor: [
