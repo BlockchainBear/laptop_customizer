@@ -1,4 +1,5 @@
 import React from "react";
+import FeatureOptions from './FeatureOptions'
 import slugify from "slugify";
 
 export default class Feature extends React.Component {
